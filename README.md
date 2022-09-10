@@ -1,4 +1,4 @@
-# <div align="center"> <ins><strong>MEALS APP - FLUTTER</strong></ins> </div>
+# <div align="center"> <ins><strong>MEALS APP - Flutter</strong></ins> </div>
 ## This mobile application uses the convenience and flexibility of the Flutter framework with Dart to track various meals, their recipes, and other details pertaining to each meal.
 
 ##        <ins>Home Screen:</ins>                    <ins>Drawer:</ins>                           <ins>Filters:</ins>
