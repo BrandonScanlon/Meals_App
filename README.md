@@ -1,7 +1,7 @@
 # This mobile application tracks various meals, their recipes, and other details.
 
 ## Home Screen:
-![alt text](https://github.com/BrandonScanlon/Meals_App/blob/master/Meals%20App%201.jpg?raw height="200" width="100")
+<img src = "https://github.com/BrandonScanlon/Meals_App/blob/master/Meals%20App%201.jpg" width="100" height="200">
 
 ## Drawer
-
+![alt text]()
